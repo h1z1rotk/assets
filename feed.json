@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "packVersion": "0.1.0",
+  "assets": [
+    {
+      "name": "rotk-test-pack",
+      "version": "0.1.0",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v0.1.0/rotk-test-pack.zip",
+      "sha256": "b4bdfd8c6dbd4fcb43afae784151e5c1c997474c9224bcd928e25d2a6a618519",
+      "size": 226,
+      "installPath": ".",
+      "type": "zip"
+    }
+  ]
+}
