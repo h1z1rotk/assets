@@ -14,6 +14,11 @@
                       "sha256":  "793d2cc2d94f0fa0c9a6c63dbd250405b57c071b76b2c2ef0e3d72fd9c926c30"
                   },
                   {
+                      "path":  "Resources/Assets/assets_x64_10.pack2",
+                      "size":  145928528,
+                      "sha256":  "ad1a6339832e75f6a58955f7547692730c5c757cfa488eae8a76825d4f29c3d3"
+                  },
+                  {
                       "path":  "Resources/Assets/assets_x64_15.pack2",
                       "size":  487793472,
                       "sha256":  "fdf80728c44b79524e33358e6b13cc1ea8d6559cdbad4b16b8445cdeaa46c492"
