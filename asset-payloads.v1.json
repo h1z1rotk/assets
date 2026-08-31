@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.3.0",
+  "packVersion": "1.4.0",
   "files": [
     {
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2474847487,
-      "sha256": "f196d3942cfe7637b5843b50b5487db2cbd0c05fc008f26b1be8f1273bf4bb08"
+      "size": 2479085469,
+      "sha256": "b72dcc5245e654e498cadf5493761d63a93fea14904d3da32fda1545ae3d07f3"
     },
     {
       "path": "Resources/Assets/assets_x64_1.pack2",
-      "size": 425490277,
-      "sha256": "ec6ddaa9bae648bf4a2377da918e2957fc27d7d3b88bf0ea0420975f3ce58165"
+      "size": 425459296,
+      "sha256": "7103c27cee2c3078abd6c5c0157d1f5e3492baa52e859199a5b87966b4a33724"
     },
     {
       "path": "Resources/Assets/assets_x64_10.pack2",
