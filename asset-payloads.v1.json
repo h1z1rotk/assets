@@ -30,8 +30,20 @@
     {
       "asset": "assets_x64_16",
       "path": "Resources/Assets/assets_x64_16.pack2",
-      "size": 573931349,
-      "sha256": "419d2b538bf8490181854aa83ae806e4be59d00872df2bfdd1169b2aff9eef2c"
+      "size": 482983264,
+      "sha256": "454eeb7893ee1e7742b585b4c300223e68a30e2480f19bdfca9742d3a13bd6ab"
+    },
+    {
+      "asset": "weapons_bank_pc9",
+      "path": "Resources/Audio/pc9/Weapons.bnk_pc",
+      "size": 408098,
+      "sha256": "8faf29918b73be87e44c895b070fd0bfb5774d55f967cf71484ce18c68780c8e"
+    },
+    {
+      "asset": "weapons_sfx_bank_pc9",
+      "path": "Resources/Audio/pc9/Weapons_SFX.bnk_pc",
+      "size": 98303694,
+      "sha256": "da737491d02623f0d2c6a901779e113c158d26a66ade4d7d1ef219e48fd2d5aa"
     },
     {
       "asset": "loginzone_x64_0",
