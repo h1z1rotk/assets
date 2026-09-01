@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.5.0",
+  "packVersion": "1.5.1",
   "assets": [
     {
       "name": "assets_x64_0",
@@ -40,8 +40,8 @@
     },
     {
       "name": "assets_x64_16",
-      "version": "1.5.0",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.0/assets_x64_16.zip",
+      "version": "1.5.1",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.1/assets_x64_16.zip",
       "sha256": "8f62131873318e72855c73e1ae2b1ec2c36c34e56c535fc47858f3d181e7c1ec",
       "size": 458120131,
       "installPath": "Resources/Assets",
@@ -49,18 +49,18 @@
     },
     {
       "name": "weapons_bank_pc9",
-      "version": "1.5.0",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.0/Weapons.bnk_pc",
-      "sha256": "8faf29918b73be87e44c895b070fd0bfb5774d55f967cf71484ce18c68780c8e",
-      "size": 408098,
+      "version": "1.5.1",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.1/Weapons.bnk_pc",
+      "sha256": "88de5de6bf101e61d55efb5e7644d4f27d1b39f258a967a019f17cd9fe587eaa",
+      "size": 408093,
       "installPath": "Resources/Audio/pc9/Weapons.bnk_pc",
       "type": "file"
     },
     {
       "name": "weapons_sfx_bank_pc9",
-      "version": "1.5.0",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.0/Weapons_SFX.bnk_pc",
-      "sha256": "da737491d02623f0d2c6a901779e113c158d26a66ade4d7d1ef219e48fd2d5aa",
+      "version": "1.5.1",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.1/Weapons_SFX.bnk_pc",
+      "sha256": "15bea7898d13539fbf00240398ca34eab6ec1f04bccd4ceb991f5bc745504d87",
       "size": 98303694,
       "installPath": "Resources/Audio/pc9/Weapons_SFX.bnk_pc",
       "type": "file"

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.5.0",
+  "packVersion": "1.5.1",
   "files": [
     {
       "asset": "assets_x64_0",
@@ -36,14 +36,14 @@
     {
       "asset": "weapons_bank_pc9",
       "path": "Resources/Audio/pc9/Weapons.bnk_pc",
-      "size": 408098,
-      "sha256": "8faf29918b73be87e44c895b070fd0bfb5774d55f967cf71484ce18c68780c8e"
+      "size": 408093,
+      "sha256": "88de5de6bf101e61d55efb5e7644d4f27d1b39f258a967a019f17cd9fe587eaa"
     },
     {
       "asset": "weapons_sfx_bank_pc9",
       "path": "Resources/Audio/pc9/Weapons_SFX.bnk_pc",
       "size": 98303694,
-      "sha256": "da737491d02623f0d2c6a901779e113c158d26a66ade4d7d1ef219e48fd2d5aa"
+      "sha256": "15bea7898d13539fbf00240398ca34eab6ec1f04bccd4ceb991f5bc745504d87"
     },
     {
       "asset": "loginzone_x64_0",
