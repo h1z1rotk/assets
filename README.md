@@ -13,12 +13,21 @@ verifies their SHA-256 and installs them into the ROTK client.
    the launcher rejects it.
 2. Compute the SHA-256 and byte size of each payload:
    `Get-FileHash -Algorithm SHA256 <file>`.
-3. Create a release `assets-vX.Y.Z` and attach the payloads.
-4. Update `feed.json` on `main`: URLs, `sha256`, `size`, bump each changed asset's
-   `version` and the global `packVersion`.
+3. Prepare a draft release `assets-vX.Y.Z` on the commit that contains the
+   matching manifests, attach the changed payloads, then download them again and
+   verify their exact size, SHA-256 and archive layout.
+4. Publish the release before exposing its URLs through `feed.json` on `main`,
+   then merge the manifest commit immediately. This avoids a window where
+   launchers receive a feed whose payloads still return 404.
+5. Update both `feed.json` and `asset-payloads.v1.json`: URLs, archive hashes and
+   sizes in the feed; installed-file hashes, sizes and asset owners in the
+   payload manifest; changed asset versions and the global `packVersion`.
 
-Launchers pick the update up on the next launch. To roll back, point `feed.json`
-back to the previous release assets.
+Launchers pick the update up on the next launch. The latest stable GitHub release
+is layered over `feed.json`, so changing the feed alone cannot roll back that
+release. Roll back by publishing a higher version that restores the previous
+payload and manifests (for example `assets-v1.5.1` after `assets-v1.5.0`), then
+publish the matching attestation policy.
 
 The manifest format and every validation rule enforced by the launcher are
 documented in
