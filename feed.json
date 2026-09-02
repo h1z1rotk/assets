@@ -49,7 +49,7 @@
     },
     {
       "name": "weapons_bank_pc9",
-      "version": "1.5.0",
+      "version": "1.5.0-repair.1",
       "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.0/Weapons.bnk_pc",
       "sha256": "8faf29918b73be87e44c895b070fd0bfb5774d55f967cf71484ce18c68780c8e",
       "size": 408098,
@@ -58,7 +58,7 @@
     },
     {
       "name": "weapons_sfx_bank_pc9",
-      "version": "1.5.0",
+      "version": "1.5.0-repair.1",
       "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.5.0/Weapons_SFX.bnk_pc",
       "sha256": "da737491d02623f0d2c6a901779e113c158d26a66ade4d7d1ef219e48fd2d5aa",
       "size": 98303694,
