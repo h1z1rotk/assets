@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.8.1",
+  "packVersion": "1.9.0",
   "assets": [
     {
       "name": "assets_x64_0",
-      "version": "1.8.1",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.8.1/assets_x64_0.zip",
-      "sha256": "ac9563f97f8e8958427f4ca668d0ed181b8b9f705bd5f0ab25bf51ece14251bb",
-      "size": 1325020732,
+      "version": "1.9.0",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.9.0/assets_x64_0.payload",
+      "sha256": "59d0cafcbb01ec73bc4858cd058d0041d53de5665c380305d937b65021db3896",
+      "size": 1331301591,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
@@ -103,12 +103,12 @@
     },
     {
       "name": "rank_menu_ui",
-      "version": "1.8.0",
+      "version": "1.9.0",
       "type": "zip",
       "installPath": "Resources/Assets",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.8.0/rank_menu_ui.payload",
-      "size": 88249158,
-      "sha256": "b6d484904426db2e4be1bf6a57c16925bb8baa70a8267f9ab7a72fd501de9466"
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.9.0/rank_menu_ui.payload",
+      "size": 88728210,
+      "sha256": "ab316082fff0794917900d4e5008572404d984ec134a7b7c252de2dfe020382a"
     }
   ]
 }
