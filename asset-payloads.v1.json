@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.10.1",
+  "packVersion": "1.10.2",
   "files": [
     {
       "asset": "assets_x64_1",
@@ -198,8 +198,8 @@
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 49653070,
-      "sha256": "3a8b5ba4751df89115b2f6bcb7a07fb33aeb8014b19d943a12a64c72f8715268"
+      "size": 49706227,
+      "sha256": "0adbcf11fcc8bb64432b62eaf1c235c7c84ccf3b5627f687aee64e5cfd16d5d8"
     },
     {
       "asset": "rank_menu_ui",
