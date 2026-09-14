@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.10.3",
+  "packVersion": "1.10.4",
   "files": [
     {
       "asset": "assets_x64_1",
@@ -60,8 +60,8 @@
     {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2480695087,
-      "sha256": "f1e97eea0e1edd1d60f453830703f12c7336a03439e18d9d7dd0998c8f89d33a"
+      "size": 2481135071,
+      "sha256": "42fac33f8d7f87982f33ddc0021bc96e1ef09666a3e7618392462968b6184fca"
     },
     {
       "asset": "locale_rotk",
@@ -198,8 +198,8 @@
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 49706227,
-      "sha256": "0adbcf11fcc8bb64432b62eaf1c235c7c84ccf3b5627f687aee64e5cfd16d5d8"
+      "size": 50146211,
+      "sha256": "bd6766ab747114dc6eaed6c9e73f917d726f62021340d7faded3dae8d9dde9f1"
     },
     {
       "asset": "rank_menu_ui",
