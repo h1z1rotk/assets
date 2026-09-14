@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.10.0",
+  "packVersion": "1.10.1",
   "assets": [
     {
       "name": "assets_x64_0",
@@ -103,12 +103,12 @@
     },
     {
       "name": "rank_menu_ui",
-      "version": "1.9.0",
+      "version": "1.10.1",
       "type": "zip",
       "installPath": "Resources/Assets",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.9.0/rank_menu_ui.payload",
-      "size": 88728210,
-      "sha256": "ab316082fff0794917900d4e5008572404d984ec134a7b7c252de2dfe020382a"
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.1/rank_menu_ui.payload",
+      "size": 88846539,
+      "sha256": "1f3946a32958192f9bb0adc763010974867f61763bf3e0bb67e99da4e2329c3a"
     }
   ]
 }
