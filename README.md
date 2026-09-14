@@ -22,6 +22,12 @@ verifies their SHA-256 and installs them into the ROTK client.
 5. Update both `feed.json` and `asset-payloads.v1.json`: URLs, archive hashes and
    sizes in the feed; installed-file hashes, sizes and asset owners in the
    payload manifest; changed asset versions and the global `packVersion`.
+6. Search every installed pack for each changed asset name and verify that all
+   copies contain the intended bytes. Checking only the UI pack and
+   `assets_x64_0.pack2` is insufficient: `HudKillFeedWindow.gfx` also exists in
+   `assets_x64_1.pack2`. The older copy could hide the staff badges shipped in
+   assets 1.10.2. Assets 1.10.3 makes both killfeed copies identical. Compare all
+   other entries in any rebuilt pack to confirm they remain unchanged.
 
 Launchers pick the update up on the next launch. The latest stable GitHub release
 is layered over `feed.json`, so changing the feed alone cannot roll back that
