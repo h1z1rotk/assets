@@ -206,6 +206,12 @@
       "path": "Resources/Assets/assets_x64_0.pack2",
       "size": 2481204079,
       "sha256": "9096e5107ccd662382224e943dc93a8817c33c0f8a40d943a9d375f0e5e228af"
+    },
+    {
+      "asset": "cz_death_ui",
+      "path": "Resources/Assets/ui_x64_3.pack2",
+      "size": 49515824,
+      "sha256": "0255b528e8df64c185890a6a447cd3282030631dc06fc1c75df0cf68c634b896"
     }
   ]
 }
