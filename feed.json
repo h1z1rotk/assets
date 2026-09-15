@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.10.7",
+  "packVersion": "1.10.8",
   "assets": [
     {
       "name": "assets_x64_0",
-      "version": "1.10.7",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.5/assets_x64_0.payload",
-      "sha256": "d2184cb1d45161a29a05e93bd18cad0fcb5627b0923962831c357dfba9a4486b",
-      "size": 1297619438,
+      "version": "1.10.8",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.8/assets_x64_0.payload",
+      "sha256": "0887763ac5c174c18d23889e070675c73c4ce121b93b06c3fcf3760dd4df07a8",
+      "size": 1381572807,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
@@ -103,12 +103,12 @@
     },
     {
       "name": "rank_menu_ui",
-      "version": "1.10.7",
+      "version": "1.10.8",
       "type": "zip",
       "installPath": "Resources/Assets",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.4/rank_menu_ui.payload",
-      "size": 89333381,
-      "sha256": "e500292d2a021d8fffabb35d4c69b32d8f0e4c7ce6f62d54a5fab23d5e4a135d"
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.8/rank_menu_ui.payload",
+      "size": 89405194,
+      "sha256": "365a14cc4ef683a61dcd338a9a5699a705a65ec1361d08be170db7101243a51b"
     },
     {
       "name": "cz_death_ui",
