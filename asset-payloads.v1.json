@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.12.1",
+  "packVersion": "1.12.2",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -62,24 +62,6 @@
       "path": "Resources/Assets/ui_x64_3.pack2",
       "size": 49553323,
       "sha256": "3c3668e96960d97f4836c04761d03b76cb4d218b63641183754e04f6c7644c78"
-    },
-    {
-      "asset": "assets_x64_0",
-      "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2482175643,
-      "sha256": "eb1ca3f7e99dfb29e86f3615d10f2e566e0524942dc1f290471dd8ed12ae5310"
-    },
-    {
-      "asset": "rank_menu_ui",
-      "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 70107555,
-      "sha256": "d401ed962db01b905dd2def317306d631f073441f96e4ff1ce56ba9711f8f052"
-    },
-    {
-      "asset": "rank_menu_ui",
-      "path": "Resources/Assets/ui_x64_2.pack2",
-      "size": 48664842,
-      "sha256": "98890f61762f39d6e860eb5928498573ac22cf1c36eb6c99fe5fe9f6e35518b3"
     },
     {
       "asset": "locale_rotk",
@@ -212,6 +194,24 @@
       "path": "Locale/zh_cn_data.dir",
       "size": 267578,
       "sha256": "ce86726723e4aec663214e50d247803929b667b2eddcddc9f14cc40167a2a1ab"
+    },
+    {
+      "asset": "assets_x64_0",
+      "path": "Resources/Assets/assets_x64_0.pack2",
+      "size": 2482698035,
+      "sha256": "99a780cd05816148dfe9ca652e5e16bae480a32c09831caee604dc20c1b6fd63"
+    },
+    {
+      "asset": "rank_menu_ui",
+      "path": "Resources/Assets/ui_x64_0.pack2",
+      "size": 70551990,
+      "sha256": "9f8c88eb56b387b89c45ff3c0c67d3a69943950cca0895fcb4aca190e3efa6da"
+    },
+    {
+      "asset": "rank_menu_ui",
+      "path": "Resources/Assets/ui_x64_2.pack2",
+      "size": 48751724,
+      "sha256": "153afd1a21fa1f9b95b9f7a3ca8a944a370cc7bad5f847c0146aa535f1d53a52"
     }
   ]
 }
