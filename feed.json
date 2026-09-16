@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "packVersion": "1.10.12",
+  "packVersion": "1.11.0",
   "assets": [
     {
       "name": "assets_x64_0",
@@ -85,19 +85,19 @@
     },
     {
       "name": "data_x64_0",
-      "version": "1.10.0",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.0/data_x64_0.zip",
-      "sha256": "1796f62e0f0ef70dcec7664bf9f3873275c1dce6a031fac0071b2893c48ab4ea",
-      "size": 16586471,
+      "version": "1.11.0",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.11.0/data_x64_0.zip",
+      "sha256": "80ed56ac3aa99c3d507a555f24857993190e208fa1cef1582214a4fb7bcef5d4",
+      "size": 24627841,
       "installPath": "Resources/Assets",
       "type": "zip"
     },
     {
       "name": "locale_rotk",
-      "version": "1.10.0",
-      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.10.0/locale_rotk.payload",
-      "sha256": "aab601237e51a3c2c0496c6fdb2ca1372f2686c1ef180dc71899ec5e05a895ec",
-      "size": 3703964,
+      "version": "1.11.0",
+      "url": "https://github.com/h1z1rotk/assets/releases/download/assets-v1.11.0/locale_rotk.payload",
+      "sha256": "6464a3c7996dce2409694224d66c1894452a53443358894c426d9edea1ac885c",
+      "size": 3708846,
       "installPath": "Locale",
       "type": "zip"
     },

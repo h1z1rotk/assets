@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.10.12",
+  "packVersion": "1.11.0",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -48,140 +48,8 @@
     {
       "asset": "data_x64_0",
       "path": "Resources/Assets/data_x64_0.pack2",
-      "size": 17907613,
-      "sha256": "7f2932e5447b80eca32743f0b4223ed108760ec02c5efcfef762045195feded8"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/de_de_data.dat",
-      "size": 687333,
-      "sha256": "41a2b34f8e9f82d75376c30dcad4d327d2cbd21d24d16370478d3763f96589d2"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/de_de_data.dir",
-      "size": 267680,
-      "sha256": "410793daea54aadaee0958598fd3ad1abd42c0e98f99e64f6ae6d35ce590d68d"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/en_us_data.dat",
-      "size": 703086,
-      "sha256": "02b43c085cba41d8d1cefc08da0c9d16c6fa4566ac132916bcff144f925a4c9f"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/en_us_data.dir",
-      "size": 329084,
-      "sha256": "4d484c43d706b6dac9f4b053ef9c1f1bec0989088ea40666422d3352a936195a"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/es_es_data.dat",
-      "size": 681203,
-      "sha256": "b878e8c8dbda6ea5512fec741b9633e2bc24f9a335123cb30a434a95a20f5638"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/es_es_data.dir",
-      "size": 267613,
-      "sha256": "43415146369c25ac4ab710cf7647c0287316d65e502c63a30cd6e817065cc369"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/fr_fr_data.dat",
-      "size": 694663,
-      "sha256": "85b1483cd43facfb9217b026f85483c668ea9a127fc8edbf8023de2126a06d1b"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/fr_fr_data.dir",
-      "size": 267665,
-      "sha256": "067e128c76c3b3912f3106f24d9b384a5393f31eaf6fa0a6bff0ac31da0928c4"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/ja_jp_data.dat",
-      "size": 797868,
-      "sha256": "52fe04d3bd43bf261e377d9b7804b6aa64793d009bcc1e1a2306c238c99e2b42"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/ja_jp_data.dir",
-      "size": 268161,
-      "sha256": "ebeb4346ac43d1a3f4526ddc364964d2fd0246cf95801720120387cb8d6efc67"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/ko_kr_data.dat",
-      "size": 694531,
-      "sha256": "15f4eb97e063e1b05e7e2693cba87a1a00cc3a942854d69fd1bb96cb7f27b4de"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/ko_kr_data.dir",
-      "size": 267757,
-      "sha256": "ecd466d00d3542160401348637bad9cbdef392e91427d2692bbffc8114752ca2"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/pt_br_data.dat",
-      "size": 666446,
-      "sha256": "9201ffe5c6845573a07bb40628c4ed0de4a00e6f44de0080f5efd26128483009"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/pt_br_data.dir",
-      "size": 267462,
-      "sha256": "cff3738a50a44ababf57ce8af7775dfc2cc5490d6507679eabe661ee54a09166"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/ru_ru_data.dat",
-      "size": 1018201,
-      "sha256": "09f66e5281c74ceabc6061eebef159e47ec743bcc4f48aff45d673e56963effe"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/ru_ru_data.dir",
-      "size": 269315,
-      "sha256": "4e74ea53591ac58ee2a7fdc38ce9db9d56818b7b1654f5ba1e8071f3f2abe592"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/th_th_data.dat",
-      "size": 1206944,
-      "sha256": "536daafb630b9f8b97dabcae32f94b672791c415105346b507643c2506adabda"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/th_th_data.dir",
-      "size": 271764,
-      "sha256": "0202592199c48693bba7d4461bd0868f9283a524626e816c6b51c7175e7df1e7"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/tr_tr_data.dat",
-      "size": 680782,
-      "sha256": "2d7d9e71703d04f86d93320bfea83fe855ce98a790ba97e37baa5482fc03d5d2"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/tr_tr_data.dir",
-      "size": 267557,
-      "sha256": "f523155256e012e3b21f821cfa51552160b9567c6befbe20ae42f634910a78f7"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/zh_cn_data.dat",
-      "size": 597320,
-      "sha256": "bbbb20e0d715ca513811a6d84cdef14b2a2a088de825ee538e68424ccb3b2e62"
-    },
-    {
-      "asset": "locale_rotk",
-      "path": "Locale/zh_cn_data.dir",
-      "size": 267056,
-      "sha256": "76fec02f22b9ce2324312819eefb1ecb829852bc0e9091bd02ad8653626fe9fd"
+      "size": 26053900,
+      "sha256": "b0c0c1da57008d2b369b98e2c13c58571c0d731e1867cf0114271979cc1f305e"
     },
     {
       "asset": "assets_x64_1",
@@ -212,6 +80,138 @@
       "path": "Resources/Assets/ui_x64_2.pack2",
       "size": 48664842,
       "sha256": "98890f61762f39d6e860eb5928498573ac22cf1c36eb6c99fe5fe9f6e35518b3"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/de_de_data.dat",
+      "size": 688066,
+      "sha256": "3ccba2a300c2fb312668eadc269f5619e46fe166c52d183fc7408f11ddbcea49"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/de_de_data.dir",
+      "size": 268133,
+      "sha256": "93bb16eed3ca8758d0ea449358fb3a5a9efe0ab2cd3a079622caf9c909306f0f"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/en_us_data.dat",
+      "size": 703819,
+      "sha256": "1efaa536c9f616e88a8859540a9a2ef849a27ea14c83e7f8c558dfece7322d42"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/en_us_data.dir",
+      "size": 329537,
+      "sha256": "f43505cfad1635dcf777a0c92826aa2faf396ac2f41f1a27c628e0d805b3c906"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/es_es_data.dat",
+      "size": 681936,
+      "sha256": "6cb07527c0bc504b35fd9a3e4ab15160a345d7a69e4e45cb7dc6c2d8474dc8d2"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/es_es_data.dir",
+      "size": 268062,
+      "sha256": "00937bf29f96fe27ad82c4e8fd6aa1a1841a49dd03a5aab1abbd5098272b3006"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/fr_fr_data.dat",
+      "size": 695396,
+      "sha256": "a9bd734580aa009cc0797ea66044287158971aaa570e086671cddaa3ebb91d1a"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/fr_fr_data.dir",
+      "size": 268116,
+      "sha256": "f365393ea476049e31f6fcb6c75d3cc43b985b103f7f98f3d8c99b0ed8eb38a7"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/ja_jp_data.dat",
+      "size": 798601,
+      "sha256": "683e364c135fa583e04ba53c0960db66c49bdebce9fe6b22f2ab0e039d665a66"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/ja_jp_data.dir",
+      "size": 268609,
+      "sha256": "3fc7b7f646708c8a57e95741b20b091add10f60d8237c3073de1c919d36f6708"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/ko_kr_data.dat",
+      "size": 695264,
+      "sha256": "38c1c378705d36f26c792b199b31232063c21f1abcf2227d54f97fd0aca1ee90"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/ko_kr_data.dir",
+      "size": 268207,
+      "sha256": "f7a1c91755a6539886d6e2d3198082da12d8e22711c0dfce1e284741d2109ff6"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/pt_br_data.dat",
+      "size": 667179,
+      "sha256": "f167646906f928273ee8d962ddc894ed1a030022dfed9592c5c6f6bba9e566a5"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/pt_br_data.dir",
+      "size": 267913,
+      "sha256": "5d21c043c973c8d0fcd4ee0af0fe3ce3b856b6fdaa59a756d6c7e4b6af4a4e69"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/ru_ru_data.dat",
+      "size": 1018934,
+      "sha256": "1aad96435bfd8b525227324413fd6484184b3ecdcf4cecaf7c0a8a50411510c5"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/ru_ru_data.dir",
+      "size": 269773,
+      "sha256": "c96e60a88ec94d063b9d2bd868dbcbf09210a0dd17e7876ea9ace50ad5f8dd80"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/th_th_data.dat",
+      "size": 1207677,
+      "sha256": "d8b1cb9e2e6b7ddd81626e743e4bc01027fe4abcbc8d8cdef34ded848d5adf3d"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/th_th_data.dir",
+      "size": 272221,
+      "sha256": "c0170ceeb24ad45f914048c32ddf0b94bcfc3d4339325281ba9614d57716427e"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/tr_tr_data.dat",
+      "size": 681515,
+      "sha256": "b2d3e1e4d984c9834f2fe23a603f4f31a44d1a8cbfefae91fa3087bddb9f8213"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/tr_tr_data.dir",
+      "size": 268010,
+      "sha256": "233eeb84732a02bf1372a2ce3a7bb0f4ff5a875107826fc233d9165640652d92"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/zh_cn_data.dat",
+      "size": 598053,
+      "sha256": "b04d5af2268b683dcb6a832441db717e3148d83846f893b228f7372403e0c798"
+    },
+    {
+      "asset": "locale_rotk",
+      "path": "Locale/zh_cn_data.dir",
+      "size": 267505,
+      "sha256": "3e7046d78a674f72eee193ddb276762788be77e31e11a0aacc2409bb0923a71e"
     }
   ]
 }
