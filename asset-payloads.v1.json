@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.12.3",
+  "packVersion": "1.12.4",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -178,24 +178,6 @@
       "sha256": "ce86726723e4aec663214e50d247803929b667b2eddcddc9f14cc40167a2a1ab"
     },
     {
-      "asset": "rank_menu_ui",
-      "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 70551990,
-      "sha256": "9f8c88eb56b387b89c45ff3c0c67d3a69943950cca0895fcb4aca190e3efa6da"
-    },
-    {
-      "asset": "rank_menu_ui",
-      "path": "Resources/Assets/ui_x64_2.pack2",
-      "size": 48751724,
-      "sha256": "153afd1a21fa1f9b95b9f7a3ca8a944a370cc7bad5f847c0146aa535f1d53a52"
-    },
-    {
-      "asset": "assets_x64_0",
-      "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2482786841,
-      "sha256": "ab2eaffcda1fc00b59ec111943bf114853b9e3e3bb37660eca0549708b9996fc"
-    },
-    {
       "asset": "assets_x64_1",
       "path": "Resources/Assets/assets_x64_1.pack2",
       "size": 425582894,
@@ -208,10 +190,28 @@
       "sha256": "1f3878cc6238b04f90c2b4c062f6fe6d0de13b351e1f931f9683d3ec66c93be7"
     },
     {
+      "asset": "assets_x64_0",
+      "path": "Resources/Assets/assets_x64_0.pack2",
+      "size": 2483247959,
+      "sha256": "4dcc96f224b01940ecc137976a3ad3c3ed97d0b7ed11c611c6546fe9bfe6dd47"
+    },
+    {
       "asset": "data_x64_0",
       "path": "Resources/Assets/data_x64_0.pack2",
-      "size": 26413046,
-      "sha256": "34db8b148fe7e39692668543680185b7fb811a5eb74554056ed88c0f7b176cbe"
+      "size": 26413174,
+      "sha256": "a4f6988ba4f5ed8219e97f01181f11393bd48f87b13626861f9b1a74f549f299"
+    },
+    {
+      "asset": "rank_menu_ui",
+      "path": "Resources/Assets/ui_x64_0.pack2",
+      "size": 71013108,
+      "sha256": "006af295c85a3093b11a26162b32bb0f31c3d9fe3b0c97e7178845c2c9676172"
+    },
+    {
+      "asset": "rank_menu_ui",
+      "path": "Resources/Assets/ui_x64_2.pack2",
+      "size": 48751724,
+      "sha256": "153afd1a21fa1f9b95b9f7a3ca8a944a370cc7bad5f847c0146aa535f1d53a52"
     }
   ]
 }
