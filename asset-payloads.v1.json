@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "asset-payloads",
-  "packVersion": "1.13.12",
+  "packVersion": "1.13.13",
   "files": [
     {
       "asset": "assets_x64_10",
@@ -196,28 +196,28 @@
       "sha256": "d278d788fd08101e84262ab18e1244e0aee0fdee9bee1cd52ef3f0ac84b6a91c"
     },
     {
+      "asset": "rotk_input_default",
+      "path": "InputProfile_Default.xml",
+      "size": 48184,
+      "sha256": "e9a932ccfaafbdb63295c60ef61ce0e40c2fd4797599cee8632f3eb0d0ce8e45"
+    },
+    {
       "asset": "assets_x64_0",
       "path": "Resources/Assets/assets_x64_0.pack2",
-      "size": 2493683077,
-      "sha256": "f1291b57aa1014e7ea8ea278b7d0411d408ddbcfaf116409f35a7dc350a6d72f"
+      "size": 2494949315,
+      "sha256": "2e8ec4deb31debc569638a531f695c5b91aaef702201254e401c576627a4e5b1"
     },
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_0.pack2",
-      "size": 80053870,
-      "sha256": "ab7b92ba435bed81caf55bee06d40c4f7dc74b4800dfcdfbc888850684852b81"
+      "size": 81319962,
+      "sha256": "9844096a555b87d517a5947136863f0b3358d7df15f1064cec2a5d4a0f6337bb"
     },
     {
       "asset": "rank_menu_ui",
       "path": "Resources/Assets/ui_x64_2.pack2",
       "size": 48751724,
       "sha256": "153afd1a21fa1f9b95b9f7a3ca8a944a370cc7bad5f847c0146aa535f1d53a52"
-    },
-    {
-      "asset": "rotk_input_default",
-      "path": "InputProfile_Default.xml",
-      "size": 48184,
-      "sha256": "e9a932ccfaafbdb63295c60ef61ce0e40c2fd4797599cee8632f3eb0d0ce8e45"
     }
   ]
 }
